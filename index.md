@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to My Funny Even Number Pratice
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/MyFunnyEvenNumberPratice/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This is an interesting exercise tool for even number calculation. Fill in the blanks to make the answers of two arithmetic equations equal. You can choose the numbers you want to practice and the types of arithmetic you want to practice. Each exercise will generate an arithmetic equation at random, which requires you to work out the answer. When you calculate the even answer, you need to fill in the blank according to the number you choose, so that you can write the arithmetic equation equal to the answer. If you get the right answer, you will be able to go to the next question and continue to answer, otherwise it will end and count your highest score.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-- Bulleted
-- List
+We will answer them for you in the first time.
 
-1. Numbered
-2. List
+### Address: zhanghesongyuan7@126.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/MyFunnyEvenNumberPratice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
